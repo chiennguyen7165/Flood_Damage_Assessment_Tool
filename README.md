@@ -16,4 +16,10 @@ sử dụng nguồn dữ liệu ảnh vệ tinh của nền tảng Google Earth 
 
 ## How to use
 1. Truy cập vào source code trên GEE Code Editor [GEE Code Editor](https://code.earthengine.google.com/6afcda3369b04dd634bde0adf20d83c6)
-2. Import shape file tỉnh Quảng Trị
+2. Import [shape file tỉnh Quảng Trị](https://github.com/chiennguyen7165/Flood_Damage_Assessment_Tool/blob/main/shapefile_QT.rar), (xem [hướng dẫn](https://developers.google.com/earth-engine/guides/table_upload#:~:text=4326%20before%20uploading.-,Upload%20a%20Shapefile,on%20your%20local%20file%20system.) import shapefile vào GEE), 
+3. Đặt tên biến cho shapefile vừa import là gemetry
+4. Thay đổi các thông số theo comments trong script
+5. Nhấn nút Run để chạy
+
+## Further researchs
+Thay đổi shapefile để chạy cho các khu vực khác
