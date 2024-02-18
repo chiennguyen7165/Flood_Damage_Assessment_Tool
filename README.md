@@ -21,5 +21,8 @@ sử dụng nguồn dữ liệu ảnh vệ tinh của nền tảng Google Earth 
 4. Thay đổi các thông số theo comments trong script
 5. Nhấn nút Run để chạy
 
+## How to cite
+Nguyễn Quang Chiến, Mai Văn Trịnh, Vũ Thanh Ca. (2022). "Xây dựng ứng dụng Web trên nền tảng Google Earth Engine để ước tính thiệt hại sau bão lũ: Nghiên cứu điển hình cho đợt lũ năm 2020 tại tỉnh Quảng Trị". *Tạp chí Khoa học đất*. Số 69/2022. pp. 184-191
+
 ## Further researchs
 Thay đổi shapefile để chạy cho các khu vực khác
